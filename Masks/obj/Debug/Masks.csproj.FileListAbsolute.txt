@@ -1,0 +1,92 @@
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\Masks.exe.config
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\Masks.exe
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\Masks.pdb
+C:\Users\Pawel\source\repos\Masks\Masks\obj\Debug\Masks.csprojAssemblyReference.cache
+C:\Users\Pawel\source\repos\Masks\Masks\obj\Debug\Masks.Form1.resources
+C:\Users\Pawel\source\repos\Masks\Masks\obj\Debug\Masks.Properties.Resources.resources
+C:\Users\Pawel\source\repos\Masks\Masks\obj\Debug\Masks.csproj.GenerateResource.cache
+C:\Users\Pawel\source\repos\Masks\Masks\obj\Debug\Masks.exe
+C:\Users\Pawel\source\repos\Masks\Masks\obj\Debug\Masks.pdb
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\x64\concrt140.dll
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\x64\cvextern.dll
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\x64\msvcp140.dll
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\x64\vcruntime140.dll
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\x86\concrt140.dll
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\x86\cvextern.dll
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\x86\msvcp140.dll
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\x86\vcruntime140.dll
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\Emgu.CV.World.dll
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\ZedGraph.dll
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\Emgu.CV.World.xml
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\ZedGraph.xml
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Pawel\source\repos\Masks\Masks\obj\Debug\Masks.csproj.CopyComplete
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\AForge.dll
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\AForge.Video.dll
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\AForge.xml
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\AForge.Video.xml
+C:\Users\Pawel\source\repos\Masks\Masks\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\x64\concrt140.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\x64\cvextern.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\x64\msvcp140.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\x64\vcruntime140.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\x86\concrt140.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\x86\cvextern.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\x86\msvcp140.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\x86\vcruntime140.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\Masks.exe.config
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\Masks.exe
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\Masks.pdb
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\AForge.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\AForge.Video.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\Emgu.CV.World.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\ZedGraph.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\AForge.xml
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\AForge.Video.xml
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\Emgu.CV.World.xml
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\ZedGraph.xml
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\obj\Debug\Masks.csprojAssemblyReference.cache
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\obj\Debug\Masks.Form1.resources
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\obj\Debug\Masks.Properties.Resources.resources
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\obj\Debug\Masks.csproj.GenerateResource.cache
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\obj\Debug\Masks.csproj.CopyComplete
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\obj\Debug\Masks.exe
+C:\Users\Pawel\Documents\Studia\Semestr 6\RiPO\Projekt\Programy\Masks\Masks\obj\Debug\Masks.pdb
